@@ -1,1 +1,1 @@
-👋 hello! i am currently a swe at [sentry.io](www.sentry.io). previously, i was a intern at [Amazon](https://xkcd.com/1165/) and before that, i was a student at [uiuc](https://siebelschool.illinois.edu/). if i am not coding, i am probably [running](strava.com/athletes/rajjoshi).
+👋 hello! i am currently a swe at [sentry.io](www.sentry.io). previously, i was a intern at [Amazon](https://xkcd.com/1165/) and before that, i was a student at [uiuc](https://siebelschool.illinois.edu/).
