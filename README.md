@@ -1,1 +1,1 @@
-👋 hello! i am currently a mts at [Trajectory](https://https://trajectory.ai). previously, i was a swe at [Zip](https://ziphq.com) and [sentry.io](https://www.sentry.io). before that, i was a intern at [amazon](https://xkcd.com/1165/).
+👋 hello! i am currently a mts at [Trajectory](https://trajectory.ai). previously, i was a swe at [Zip](https://ziphq.com) and [sentry.io](https://www.sentry.io). before that, i was a intern at [amazon](https://xkcd.com/1165/).
